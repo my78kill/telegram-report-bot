@@ -55,3 +55,4 @@ typing-extensions==4.12.2
     #   pydantic-core
 yarl==1.18.0
     # via aiohttp
+flask
